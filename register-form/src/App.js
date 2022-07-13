@@ -1,4 +1,3 @@
-import "./App.css";
 import Register from "./register/Register";
 
 function App() {
