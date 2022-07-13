@@ -1,10 +1,10 @@
-import Register from "./register/Register";
+import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Register />
+        <h1>Hello World</h1>
       </header>
     </div>
   );
